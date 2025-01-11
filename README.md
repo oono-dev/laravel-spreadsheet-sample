@@ -19,3 +19,5 @@ SPREADSHEET_ID="スプレッドシートID"
 ```
 SPREADSHEET_CREDEINTIALS_NAME="jsonファイル名"
 ```
+
+詳細な手順は[こちら](https://qiita.com/oono_dev/items/3ef49f5ba07acc6c8d01)を参考にしてください。
